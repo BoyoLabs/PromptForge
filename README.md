@@ -1,0 +1,1 @@
+This was a vibe coded means of having a portable markdown editor so I can work on my prompt repos while at work, on mobile, or at home on desktop. It works, but with some caveats. I may abandon this project. Posting to see if someone wants to take it on or might find use in it.
